@@ -3,3 +3,5 @@
     RMDir /r "$LOCALAPPDATA\hydralauncher-updater"
   ${endIf}
 !macroend
+
+no
